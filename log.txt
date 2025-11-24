@@ -1,2 +1,6 @@
 5adac1d (HEAD -> main, origin/main, origin/HEAD) Task 1.1: Fixed Checkstyle issues
 3e78de8 Initial commit
+
+ad21d0b (HEAD -> main, origin/main, origin/HEAD) Task 1.2: Updated log
+5adac1d Task 1.1: Fixed Checkstyle issues
+3e78de8 Initial commit
